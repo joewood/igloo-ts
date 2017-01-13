@@ -1,0 +1,28 @@
+{
+  "name": "igloo-ts",
+  "version": "1.0.0",
+  "description": "A TypeScript port of igloo.js - WebGL Library",
+  "main": "lib/igloo.js",
+  "types": "lib/igloo.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joewood/igloo-ts.git"
+  },
+  "keywords": [
+    "igloo.js",
+    "webgl",
+    "typescript"
+  ],
+  "author": "Joe Wood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joewood/igloo-ts/issues"
+  },
+  "homepage": "https://github.com/joewood/igloo-ts#readme",
+  "devDependencies": {
+    "@types/node": "^7.0.0"
+  }
+}
