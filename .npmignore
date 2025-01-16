@@ -1,0 +1,6 @@
+/src
+/test
+/.vscode
+tsconfig.json
+.eslint.config.mjs
+/node_modules
